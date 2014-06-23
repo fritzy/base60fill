@@ -1,0 +1,29 @@
+{
+  "name": "base64fill",
+  "version": "1.0.0",
+  "description": "base64 with bignum support and leftfill. Useful for generating sorted indexes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/nodeunit/bin/nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fritzy/base64fill.git"
+  },
+  "keywords": [
+    "fill",
+    "bignum",
+    "base64"
+  ],
+  "author": "Nathan Fritz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritzy/base64fill/issues"
+  },
+  "homepage": "https://github.com/fritzy/base64fill",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.0"
+  }
+}
